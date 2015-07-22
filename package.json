@@ -1,0 +1,22 @@
+{
+  "name": "markdown-dir",
+  "version": "0.0.1",
+  "description": "compile a folder of markdown files (with frontmatter support)",
+  "keywords": [],
+  "author": "Matthew Mueller <mattmuelle@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MatthewMueller/markdown-dir.git"
+  },
+  "dependencies": {
+    "batch": "^0.5.2",
+    "glob": "^5.0.14",
+    "gray-matter": "^2.0.1",
+    "remarkable": "^1.6.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
