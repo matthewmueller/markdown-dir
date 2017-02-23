@@ -12,6 +12,7 @@
     "batch": "^0.5.2",
     "glob": "^5.0.14",
     "gray-matter": "^2.0.1",
+    "markdown-render": "^1.0.1",
     "remarkable": "^1.6.0"
   },
   "devDependencies": {
